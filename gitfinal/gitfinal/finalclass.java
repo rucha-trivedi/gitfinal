@@ -11,5 +11,6 @@ public class finalclass {
 	 public static void main(String[] args) {
 		defaultclass dc= new defaultclass();
 		System.out.println("Completed!");
+		System.out.println("Test Done");
 	}
 }
