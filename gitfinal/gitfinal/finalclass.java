@@ -12,6 +12,5 @@ public class finalclass {
 		defaultclass dc= new defaultclass();
 		System.out.println("Completed!");
 		System.out.println("Test Done");
-		System.out.println("Jenkis Test");
-	}
+	 }
 }
