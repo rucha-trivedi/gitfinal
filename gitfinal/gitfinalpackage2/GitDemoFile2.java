@@ -4,6 +4,6 @@ public class GitDemoFile2 {
 	public static void main(String[] args) {
 		System.out.println("Resource folder script fire");
 		System.out.println("Done");
-		System.out.println("Copy when it Doesnot Exists in Workspace Folder of Jenkins ");
+		System.out.println(" Mismatched Properties ");
 	}
 }
